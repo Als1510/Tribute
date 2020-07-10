@@ -1,0 +1,82 @@
+@@ -0,0 +1,81 @@
+*{
+    background-color:#DCDCE6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin:auto;
+}
+header{
+    height:18px;
+    width:100%;
+    background-color:rgb(41, 40, 40);
+    overflow:auto;
+    text-align:center;
+    padding:10px;
+    box-shadow: 3px 3px 3px grey;
+}
+#title{
+    background-color:rgb(46, 43, 43);
+    color:white;
+    font-size: 15px;
+}
+.A{
+    text-align:center;
+    font-size:23px;
+    color:rgb(57, 79, 204);
+}
+.B{
+    text-align: center;
+    color:green;
+    font-style: italic;
+}
+.C{
+    height:180px;
+    width:125px;
+    margin:auto;
+    display:block;
+}
+.D{
+    margin-top: 6px;
+    font-size:8px;
+    text-align: center;
+}
+.E{
+    font-size:8px;
+    color:rgb(56, 53, 53);
+}
+.F{
+    font-size:13px;
+    color:rgb(56, 53, 53);
+}
+.G{
+    font-size:10px;
+    color:rgb(56, 53, 53);
+    margin-top:9px;
+}
+.H{
+    font-size:11px;
+    color:rgb(133, 19, 133);
+    padding:5px;
+    display:inline-block;
+}
+.I{
+    display:inline-block;
+    position:relative;
+    right:30px;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 12px;
+    text-decoration: underline;
+    color:darkslategrey;
+    float:right;
+}
+a{
+    font-style:oblique;
+    text-decoration: none;
+    color:rgb(68, 142, 192);
+}
+a:hover{
+    color:rgb(43, 88, 172);
+    text-decoration: underline;
+}
